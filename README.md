@@ -1,2 +1,3 @@
 # JsonToCSharp
-Simple app to create c# classes from json strings. Could easily be expanded to upload json files.
+Simple app to create c# classes from json strings. It's a POC project so it can be easily expanded and improved.
+Be sure to change the AppendFile path in RuntimeTextTemplate1.tt or even create a parameter for it.
